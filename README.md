@@ -1,3 +1,3 @@
 # data-kernels
 
-Repository of data analysis kernels experiments 
+Repository of data science projects    
